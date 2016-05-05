@@ -1,3 +1,14 @@
+/*
+TO DO
+
+- Fix problem with double sorting the array rigth before 'getHits' call during gameplay (line 249)
+- Memory leak - no destructor
+
+*/
+
+
+
+
 /*! @file drive.cpp
  * 	@brief The main function of the game.
  * This file contains the inclusion of C++ libraries used in the main function 
